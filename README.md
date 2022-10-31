@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-🌱 I’m currently learning HTML<br>💬 Ask me about HTML<br>📫 Reach me subhan.kidwai@gmail.com<br><br><br>
+🌱 I’m currently learning HTML and CSS<br>💬 Ask me about HTML and CSS<br>📫 Reach me subhan.kidwai@gmail.com<br><br><br>
 
 
 ## 🌐 Socials:
